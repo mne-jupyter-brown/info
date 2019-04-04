@@ -38,3 +38,8 @@ So we have made the following opinionated decisions.
 
 **If you wish to keep your content after the workshop, and you know git, you can fork https://github.com/jasmainak/mne-workshop-brown, and clone it directly into the hub**
 
+## Merging conflicts
+
+If a merging conflict arises, you can simply delete the file, and force a re-pull.. To do so open launch the terminal inside your JupyterHub and tye `gitpuller https://github.com/jasmainak/mne-workshop-brown.git master mne-gitpuller`
+
+To remove a folder you need to either empty it's contents first or force via the terminal `rm -rf myfoldertodelete`
