@@ -20,10 +20,10 @@ After loging in, please select the MNE-Workshop spawner. The materials are auto-
 
 ### Merging behavior
 
-nbgitpuller is designed to be used by folks who do not know that git is being used
-underneath, and are only pulling content one way from a source and modifying it -
+nbgitpuller is designed to hide that git is being used
+underneath, and to pull content one way from a source and modifying it -
 not pushing it back.
-So we have made the following opinionated decisions.
+It makes the following opinionated decisions.
 
 1. If content has changed in both places, prefer local changes over remote changes.
 2. If a file was deleted locally but present in the remote, remote file is restored
