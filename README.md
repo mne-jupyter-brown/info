@@ -7,7 +7,7 @@ https://github.com/jasmainak/mne-workshop-brown - maintained by Mainak Jas
 
 ## Computing resources
 
-As a member of this organization, you are enabled to login into the workshop's Jupyter Hub
+As a member of this organization, you are enabled to login into the workshop's [Jupyter Hub](https://ccv.jupyter.brown.edu)
 
 After loging in, please select the MNE-Workshop spawner. The materials are auto-pulled into the hub under `mne-gitpuller` 
 
